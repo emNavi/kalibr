@@ -1,0 +1,5 @@
+    target_type: 'aprilgrid' # 标识码类型
+    tagCols: 6               # 标识码列数
+    tagRows: 6               # 标识码行数
+    tagSize: 0.02            # 标识码边长 [m]
+    tagSpacing: 0.3          # 标识码边长与标识码间隔边长的比例
